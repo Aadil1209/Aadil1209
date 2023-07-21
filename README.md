@@ -7,7 +7,7 @@
 Data Structures and Algorithms on LeetCode
 Tools and technologies from React ecosystem
 👯 Join my community if you're a tech enthusiast
-📬 How to reach me: aswin2001barath@gmail.com
+📬 How to reach me: aadilmentors11@gmail.com
 📝 Resume.
 💪 This is where I write, code and solve problems:
 Aadil1209/Aadil1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
